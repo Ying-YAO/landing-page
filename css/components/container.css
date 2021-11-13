@@ -1,0 +1,25 @@
+.containers{
+	width: 1500px;
+	margin: 0 auto;
+}
+
+
+@media(max-width: 750px){
+	.containers{
+		width: 620px;
+	}
+}
+
+
+@media(max-width: 500px){
+	.containers{
+		width: 440px;
+	}
+}
+
+
+.container-cards{
+	width: 900px;
+	margin: 0 auto;
+}
+
